@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Inheritance to perform Multiple Inheritance
+//Aim:Implementation of Inheritance to perform Multiple Inheritance
 
 #include <iostream>
 using namespace std;
