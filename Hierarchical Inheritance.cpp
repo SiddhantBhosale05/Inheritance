@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Inheritance to perform Hierarchical Inheritance
+//Aim:Implementation of Inheritance to perform Hierarchical Inheritance
 
 #include <iostream>
 #include <string>
