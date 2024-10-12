@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Inheritance to perform Single Inheritance
+//Aim:Implementation of Inheritance to perform Single Inheritance
 
 #include <iostream>
 using namespace std;
