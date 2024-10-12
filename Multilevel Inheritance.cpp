@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Inheritance to perform Multilevel Inheritance
+//Aim:Implementation of Inheritance to perform Multilevel Inheritance
 
 #include <iostream>
 using namespace std;
